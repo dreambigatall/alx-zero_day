@@ -1,2 +1,1 @@
- My first readme
- As a full stack system enginer
+My dream come to reality in any cost bro
